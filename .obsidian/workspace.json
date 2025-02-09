@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EJERCICIOS RESUELTOS/GLITCH CAT.md",
+                "file": "PicoCTF/EJERCICIOS RESUELTOS/NICE NETCAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GLITCH CAT"
+              "title": "NICE NETCAT"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3e25e78045c132c7",
+  "active": "f0ce903e2482189d",
   "lastOpenFiles": [
-    "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/Pasted image 20250209135114.png",
+    "Pasted image 20250209135101.png",
+    "Pasted image 20250209135058.png",
     "PicoCTF/EJERCICIOS RESUELTOS/GLITCH CAT.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/NICE NETCAT.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
     "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/First Grep.md",
