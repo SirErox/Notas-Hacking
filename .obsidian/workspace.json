@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
+                "file": "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obedient Cat"
+              "title": "what's a net cat"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "19819319537ea8fd",
@@ -168,10 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3e25e78045c132c7",
+  "active": "f0ce903e2482189d",
   "lastOpenFiles": [
-    "PicoCTF/EJERCICIOS RESUELTOS/First Grep.md",
     "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/First Grep.md",
     "PicoCTF/EJERCICIOS RESUELTOS/BASES.md",
     "PicoCTF/EJERCICIOS RESUELTOS/WARMED UP.md",
     "PicoCTF/EJERCICIOS RESUELTOS/2WARM.md",
