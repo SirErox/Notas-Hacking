@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
+                "file": "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what's a net cat"
+              "title": "PLUMBING"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f0ce903e2482189d",
+  "active": "3e25e78045c132c7",
   "lastOpenFiles": [
-    "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/First Grep.md",
     "PicoCTF/EJERCICIOS RESUELTOS/BASES.md",
     "PicoCTF/EJERCICIOS RESUELTOS/WARMED UP.md",
