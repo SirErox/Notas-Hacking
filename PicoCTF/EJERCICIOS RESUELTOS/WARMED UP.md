@@ -7,7 +7,7 @@ Traducción:
 
 	Que es 0x3D(base 16) en decimal(base 10)?
 
-Solución:
+Solucion:
 
 	Es como el reto "2warm" es una conversion, en este caso tenemos que convertir de base 16 a decimal, como dice la descripcion...
 
