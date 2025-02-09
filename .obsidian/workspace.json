@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
+                "file": "PicoCTF/EJERCICIOS RESUELTOS/GLITCH CAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PLUMBING"
+              "title": "GLITCH CAT"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "3e25e78045c132c7",
   "lastOpenFiles": [
-    "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/PLUMBING.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/GLITCH CAT.md",
+    "PicoCTF/EJERCICIOS RESUELTOS/what's a net cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/Obedient Cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS/First Grep.md",
     "PicoCTF/EJERCICIOS RESUELTOS/BASES.md",
