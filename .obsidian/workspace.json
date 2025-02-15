@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GENERAL SKILLS 2(SOLVED)/Big Zip.md",
+                "file": "PicoCTF/GENERAL SKILLS 2(SOLVED)/First Find.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Big Zip"
+              "title": "First Find"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "0a8a80d86c222983",
   "lastOpenFiles": [
+    "PLANTILLA.md",
+    "PicoCTF/GENERAL SKILLS 2(SOLVED)/First Find.md",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Big Zip.md",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)",
     "PicoCTF/Sin título.canvas",
@@ -187,7 +189,6 @@
     "PicoCTF/EJERCICIOS RESUELTOS/03-WARMED UP.md",
     "PicoCTF/EJERCICIOS RESUELTOS/02-2WARM.md",
     "PicoCTF/EJERCICIOS RESUELTOS/01-let's warm up.md",
-    "PLANTILLA.md",
     "PicoCTF/EJERCICIOS RESUELTOS",
     "PicoCTF"
   ]
