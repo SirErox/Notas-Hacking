@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 3.md",
+                "file": "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/SERPERTINE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PW CRACK 3"
+              "title": "SERPERTINE"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "0a8a80d86c222983",
   "lastOpenFiles": [
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 2.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 3.md",
+    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/SERPERTINE.md",
+    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 2.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 1.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/fixme2.py.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/convertme.py.md",
@@ -203,7 +204,6 @@
     "PicoCTF/EJERCICIOS RESUELTOS/09-GLITCH CAT.md",
     "PicoCTF/EJERCICIOS RESUELTOS/08-PLUMBING.md",
     "PicoCTF/EJERCICIOS RESUELTOS/07-what's a net cat.md",
-    "PicoCTF/EJERCICIOS RESUELTOS/06-Obedient Cat.md",
     "PicoCTF/EJERCICIOS RESUELTOS",
     "PicoCTF"
   ]
