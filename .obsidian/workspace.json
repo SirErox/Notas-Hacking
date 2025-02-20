@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1(Retos)/Collaborative Development.md",
+                "file": "PicoCTF/Tarea 1(Retos)/Binary Search.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collaborative Development"
+              "title": "Binary Search"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "0a8a80d86c222983",
   "lastOpenFiles": [
-    "PicoCTF/Tarea 1(Retos)/BLAME GAME.md",
     "PicoCTF/Tarea 1(Retos)/Collaborative Development.md",
+    "PicoCTF/Tarea 1(Retos)/Binary Search.md",
+    "PicoCTF/Tarea 1(Retos)/BLAME GAME.md",
     "PicoCTF/Tarea 1(Retos)/Time machine.md",
     "PicoCTF/Tarea 1(Retos)/commitment issues.md",
     "PicoCTF/Tarea 1(Retos)/chrono.md",
@@ -199,7 +200,6 @@
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/REPETITIONS.md",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/First Find.md",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Magikarp Ground Mission.md",
-    "PLANTILLA.md",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)",
     "PicoCTF/Sin título.canvas",
     "PicoCTF/EJERCICIOS RESUELTOS/Pasted image 20250209135114.png",
