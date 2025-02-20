@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea 1(Retos)/commitment issues.md",
+                "file": "PicoCTF/Tarea 1(Retos)/Time machine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commitment issues"
+              "title": "Time machine"
             }
           }
         ]
@@ -168,10 +168,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f0ce903e2482189d",
+  "active": "0a8a80d86c222983",
   "lastOpenFiles": [
-    "PicoCTF/Tarea 1(Retos)/chrono.md",
     "PicoCTF/Tarea 1(Retos)/commitment issues.md",
+    "PicoCTF/Tarea 1(Retos)/Time machine.md",
+    "PicoCTF/Tarea 1(Retos)/chrono.md",
     "PicoCTF/Tarea 1(Retos)/Permissions.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/SERPERTINE.md",
     "PicoCTF/Tarea 1(Retos)",
@@ -201,7 +202,6 @@
     "PicoCTF/GENERAL SKILLS 2(SOLVED)",
     "PicoCTF/Sin título.canvas",
     "README.md",
-    "PicoCTF/EJERCICIOS RESUELTOS/10-NICE NETCAT.md",
     "PicoCTF/EJERCICIOS RESUELTOS/Pasted image 20250209135114.png",
     "Pasted image 20250209135101.png",
     "Pasted image 20250209135058.png",
