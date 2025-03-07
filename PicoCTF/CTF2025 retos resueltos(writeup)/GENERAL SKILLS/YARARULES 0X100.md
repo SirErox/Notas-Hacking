@@ -1,0 +1,5 @@
+#### Description
+
+Dear Threat Intelligence Analyst,Quick heads up - we stumbled upon a shady executable file on one of our employee's Windows PCs. Good news: the employee didn't take the bait and flagged it to our InfoSec crew.Seems like this file sneaked past our Intrusion Detection Systems, indicating a fresh threat with no matching signatures in our database.Can you dive into this file and whip up some YARA rules? We need to make sure we catch this thing if it pops up again.Thanks a bunch!The suspicious file can be downloaded [here](https://challenge-files.picoctf.net/c_standard_pizzas/0db248cd9b5b19fd9e9f16003e2f7e4d4e34ab24447ee07c729a7253bd00e47d/suspicious.zip). Unzip the archive with the password `picoctf`
+
+Additional details will be available after launching your challenge instance.

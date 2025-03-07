@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust fixme3.md",
+                "file": "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/FLAG HUNTERS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust fixme3"
+              "title": "FLAG HUNTERS"
             }
           }
         ]
@@ -168,13 +168,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f0ce903e2482189d",
+  "active": "0a8a80d86c222983",
   "lastOpenFiles": [
+    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/chalkboard.md",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/FLAG HUNTERS.md",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/YARARULES 0X100.md",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust fixme3.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust Fixme 2.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust fixme3.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/rust fixme1.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/chalkboard.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/FANTASY CTF.md",
     "PicoCTF/Tarea 1(Retos)/Special.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)",
@@ -198,7 +202,6 @@
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Codebook.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/runme.py.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Super SSH.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)",
