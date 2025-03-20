@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "262ce566679be04b",
+        "id": "71d3dcfd8439f5e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0a8a80d86c222983",
+            "id": "e54d7ae2cca07cc0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/FLAG HUNTERS.md",
+                "file": "PicoCTF/RETOS WEB 1/client-side again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FLAG HUNTERS"
+              "title": "client-side again"
             }
           }
         ]
@@ -168,10 +168,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "0a8a80d86c222983",
+  "active": "e54d7ae2cca07cc0",
   "lastOpenFiles": [
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/chalkboard.md",
+    "PicoCTF/RETOS WEB 1/picobrowser.md",
+    "PicoCTF/RETOS WEB 1/client-side again.md",
+    "PicoCTF/RETOS WEB 1/DON'T USE CLIENT SIDE.md",
+    "PicoCTF/RETOS WEB 1/LOGON.md",
+    "PicoCTF/RETOS WEB 1/where are the robots.md",
+    "PicoCTF/RETOS WEB 1/Insp3ctor.md",
+    "PicoCTF/RETOS WEB 1",
+    "PicoCTF/Sin título.md",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/BINARY INSTRUMENTATION 1.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/FLAG HUNTERS.md",
+    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/chalkboard.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/YARARULES 0X100.md",
@@ -193,15 +202,7 @@
     "PicoCTF/Tarea 1(Retos)/Permissions.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/SERPERTINE.md",
     "PicoCTF/Tarea 1(Retos)",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 3.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 2.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/PW CRACK 1.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/fixme2.py.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/convertme.py.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/fixme1.py.md",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Codebook.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/runme.py.md",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)",
