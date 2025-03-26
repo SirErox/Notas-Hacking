@@ -1,0 +1,16 @@
+descripcion:
+Find the flag being held on this server to get ahead of the competition [http://mercury.picoctf.net:21939/](http://mercury.picoctf.net:21939/)
+
+Solucion
+
+Para este reto use mozilla, ya que permite la modificacion de solicitudes sin tantos rodeos, al entrar en la web, directamente le doy en inspeccionar, ya que lo que quiero ver es la consola, y veo que al darle a los botones solo cambia el color de la pagina...
+
+pero el mismo nombre del reto esta la pista, GET, HEAD... diferentes metodos de solicitudes en internet, tenemos muchisimos mas... pero nos importa el HEAD...
+
+hay una herramienta "burpsuite" pero no supe usarla, asi que me puse a hacerlo manual... checando una de las solicitudes manualmente, en mozilla hay un boton que dice "resend" permitiendo modificar esa misma solicitud y reenviarla...
+
+solo cambiando el metodo GET por HEAD, al recibir la nueva solicitud, nos dara la bandera...
+
+no muestro imagenes porque es un dolor estar acomodandolas...
+
+picoCTF{r3j3ct_th3_du4l1ty_6ef27873}
