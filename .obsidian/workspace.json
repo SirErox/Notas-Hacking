@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71d3dcfd8439f5e7",
+        "id": "ac66992fc4ef2faf",
         "type": "tabs",
         "children": [
           {
-            "id": "e54d7ae2cca07cc0",
+            "id": "1dec5f84f1e9172d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/RETOS WEB 3/JaWT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "JaWT"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -168,10 +164,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e54d7ae2cca07cc0",
+  "active": "1dec5f84f1e9172d",
   "lastOpenFiles": [
-    "PicoCTF/RETOS WEB 3/More SQLi.md",
+    "PicoCTF/RETOS WEB 4/Sin título.md",
+    "PicoCTF/RETOS WEB 4/MatchTheRegex.md",
+    "PicoCTF/RETOS WEB 5/INSPECT HTML.md",
+    "PicoCTF/RETOS WEB 4",
+    "PicoCTF/Sin título 1.md",
+    "PicoCTF/RETOS WEB 5/INCLUDES.md",
+    "PicoCTF/RETOS WEB 5",
+    "PicoCTF/RETOS WEB 3/Sin título.md",
     "PicoCTF/RETOS WEB 3/JaWT.md",
+    "PicoCTF/RETOS WEB 3/More SQLi.md",
     "PicoCTF/RETOS WEB 3/IRISH-NAME-REPO 1.md",
     "PicoCTF/RETOS WEB 2/cookies.md",
     "PicoCTF/RETOS WEB 3",
@@ -196,22 +200,14 @@
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust fixme3.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/Rust Fixme 2.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/rust fixme1.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/FANTASY CTF.md",
-    "PicoCTF/Tarea 1(Retos)/Special.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)",
-    "PicoCTF/Tarea 1(Retos)/chrono.md",
-    "PicoCTF/Tarea 1(Retos)/ASCII NUMBERS.md",
-    "PicoCTF/Tarea 1(Retos)/binhexa.md",
     "PicoCTF/Tarea 1(Retos)",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
-    "PicoCTF/GENERAL SKILLS 2(SOLVED)",
     "PicoCTF/Sin título.canvas",
     "PicoCTF/EJERCICIOS RESUELTOS/Pasted image 20250209135114.png",
     "Pasted image 20250209135101.png",
-    "Pasted image 20250209135058.png",
-    "PicoCTF/EJERCICIOS RESUELTOS"
+    "Pasted image 20250209135058.png"
   ]
 }
