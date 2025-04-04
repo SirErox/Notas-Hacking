@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/RETOS WEB 4/most cookies.md",
+                "file": "PicoCTF/RETOS WEB 5/webdecode.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "most cookies"
+              "title": "webdecode"
             }
           }
         ]
@@ -170,8 +170,16 @@
   },
   "active": "1dec5f84f1e9172d",
   "lastOpenFiles": [
-    "PicoCTF/RETOS WEB 4/TRICKSTER.md",
+    "PicoCTF/RETOS WEB 5/UMNIFY.md",
+    "PicoCTF/RETOS WEB 5/webdecode.md",
+    "PicoCTF/RETOS WEB 5/SQLilite.md",
+    "PicoCTF/RETOS WEB 5/secrets.md",
+    "PicoCTF/RETOS WEB 5/ROBOTO SANS.md",
+    "PicoCTF/RETOS WEB 5/POWER COOKIE.md",
+    "PicoCTF/RETOS WEB 5/local authority.md",
+    "PicoCTF/RETOS WEB 5/INTROTOBURP.md",
     "PicoCTF/RETOS WEB 4/most cookies.md",
+    "PicoCTF/RETOS WEB 4/TRICKSTER.md",
     "PicoCTF/RETOS WEB 4/SOAP.md",
     "PicoCTF/RETOS WEB 4/MatchTheRegex.md",
     "PicoCTF/RETOS WEB 5/INSPECT HTML.md",
@@ -192,17 +200,9 @@
     "PicoCTF/RETOS WEB 2",
     "PicoCTF/RETOS WEB 1/picobrowser.md",
     "PicoCTF/RETOS WEB 1/DON'T USE CLIENT SIDE.md",
-    "PicoCTF/RETOS WEB 1/LOGON.md",
-    "PicoCTF/RETOS WEB 1/where are the robots.md",
-    "PicoCTF/RETOS WEB 1/Insp3ctor.md",
     "PicoCTF/RETOS WEB 1",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/BINARY INSTRUMENTATION 1.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE/FLAG HUNTERS.md",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/chalkboard.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
-    "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS/YARARULES 0X100.md",
     "PicoCTF/CTF2025 retos resueltos(writeup)/GENERAL SKILLS",
     "PicoCTF/CTF2025 retos resueltos(writeup)",
     "PicoCTF/Tarea 1(Retos)",
