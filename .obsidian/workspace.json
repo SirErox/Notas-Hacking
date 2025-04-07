@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/RETOS WEB 5/webdecode.md",
+                "file": "PicoCTF/FORENSIC/what lies whitin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "webdecode"
+              "title": "what lies whitin"
             }
           }
         ]
@@ -170,8 +170,13 @@
   },
   "active": "1dec5f84f1e9172d",
   "lastOpenFiles": [
-    "PicoCTF/RETOS WEB 5/UMNIFY.md",
+    "PicoCTF/FORENSIC/SO META.md",
+    "PicoCTF/FORENSIC/shark on wire 1.md",
+    "PicoCTF/FORENSIC/Glory of the Garden.md",
+    "PicoCTF/FORENSIC/what lies whitin.md",
+    "PicoCTF/FORENSIC",
     "PicoCTF/RETOS WEB 5/webdecode.md",
+    "PicoCTF/RETOS WEB 5/UMNIFY.md",
     "PicoCTF/RETOS WEB 5/SQLilite.md",
     "PicoCTF/RETOS WEB 5/secrets.md",
     "PicoCTF/RETOS WEB 5/ROBOTO SANS.md",
@@ -195,11 +200,7 @@
     "PicoCTF/RETOS WEB 3",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.md",
     "PicoCTF/RETOS WEB 2/Scavenger Hunt.md",
-    "PicoCTF/RETOS WEB 2/GET aHEAD.md",
-    "PicoCTF/RETOS WEB 1/client-side again.md",
     "PicoCTF/RETOS WEB 2",
-    "PicoCTF/RETOS WEB 1/picobrowser.md",
-    "PicoCTF/RETOS WEB 1/DON'T USE CLIENT SIDE.md",
     "PicoCTF/RETOS WEB 1",
     "PicoCTF/CTF2025 retos resueltos(writeup)/REVERSE",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
@@ -207,7 +208,6 @@
     "PicoCTF/CTF2025 retos resueltos(writeup)",
     "PicoCTF/Tarea 1(Retos)",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
-    "PicoCTF/GENERAL SKILLS 3(WRITE UPS)",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
     "PicoCTF/Sin título.canvas",
     "PicoCTF/EJERCICIOS RESUELTOS/Pasted image 20250209135114.png",
