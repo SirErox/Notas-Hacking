@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/Specialer.md",
+                "file": "PicoCTF/EXAMEN PARCIAL 1/WEB/SQL DIRECT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Specialer"
+              "title": "SQL DIRECT"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "19819319537ea8fd",
@@ -170,36 +170,36 @@
   },
   "active": "1dec5f84f1e9172d",
   "lastOpenFiles": [
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/SansAlpha.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/JAVA CODE ANALYSIS.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/SQL DIRECT.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/findme.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/SSTI 1.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/N0san1ty.md",
+    "PicoCTF/RETOS WEB 4/TRICKSTER.md",
+    "PicoCTF/RETOS WEB 4/MatchTheRegex.md",
+    "PicoCTF/RETOS WEB 5/INCLUDES.md",
+    "PicoCTF/RETOS WEB 5/INSPECT HTML.md",
+    "PicoCTF/RETOS WEB 5/INTROTOBURP.md",
+    "PicoCTF/RETOS WEB 5/local authority.md",
+    "PicoCTF/RETOS WEB 5/POWER COOKIE.md",
+    "PicoCTF/RETOS WEB 5/ROBOTO SANS.md",
+    "PicoCTF/RETOS WEB 5/secrets.md",
+    "PicoCTF/RETOS WEB 5/SQLilite.md",
+    "PicoCTF/RETOS WEB 5/UMNIFY.md",
+    "PicoCTF/RETOS WEB 5/webdecode.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/head-dump.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/COOKIE MONSTER SECRET RECIPE.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/BOOKMARKLET.md",
+    "PicoCTF/EXAMEN PARCIAL 1/INFORMACION (RETOS A RESOLVER).md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/Specialer.md",
+    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/SansAlpha.md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/flag_shop.md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/dont-you-love-banners.md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/PYTHON WRANGLING.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/HashingJobApp.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/RUST FIXME 3.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/RUST FIXME 1.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/RUST FIXME 2.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/FANTASY CTF.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS",
-    "PicoCTF/EXAMEN PARCIAL 1/INFORMACION (RETOS A RESOLVER).md",
     "PicoCTF/EXAMEN PARCIAL 1",
-    "PicoCTF/FORENSIC/what lies whitin.md",
-    "PicoCTF/FORENSIC/SO META.md",
-    "PicoCTF/FORENSIC/shark on wire 1.md",
-    "PicoCTF/FORENSIC/Glory of the Garden.md",
     "PicoCTF/FORENSIC",
-    "PicoCTF/RETOS WEB 5/webdecode.md",
-    "PicoCTF/RETOS WEB 5/UMNIFY.md",
-    "PicoCTF/RETOS WEB 5/SQLilite.md",
-    "PicoCTF/RETOS WEB 5/secrets.md",
-    "PicoCTF/RETOS WEB 5/ROBOTO SANS.md",
-    "PicoCTF/RETOS WEB 5/POWER COOKIE.md",
-    "PicoCTF/RETOS WEB 5/local authority.md",
-    "PicoCTF/RETOS WEB 5/INTROTOBURP.md",
-    "PicoCTF/RETOS WEB 4/most cookies.md",
-    "PicoCTF/RETOS WEB 4/TRICKSTER.md",
-    "PicoCTF/RETOS WEB 4/SOAP.md",
     "PicoCTF/RETOS WEB 4",
     "PicoCTF/RETOS WEB 5",
     "PicoCTF/RETOS WEB 3",
