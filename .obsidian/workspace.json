@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/EXAMEN PARCIAL 1/WEB/SQL DIRECT.md",
+                "file": "PicoCTF/EXAMEN PARCIAL 1/WEB/websockfish.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL DIRECT"
+              "title": "websockfish"
             }
           }
         ]
@@ -170,8 +170,11 @@
   },
   "active": "1dec5f84f1e9172d",
   "lastOpenFiles": [
-    "PicoCTF/EXAMEN PARCIAL 1/WEB/JAVA CODE ANALYSIS.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/SSTI 2.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/websockfish.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/BOOKMARKLET.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/SQL DIRECT.md",
+    "PicoCTF/EXAMEN PARCIAL 1/WEB/JAVA CODE ANALYSIS.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/findme.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/SSTI 1.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/N0san1ty.md",
@@ -189,13 +192,10 @@
     "PicoCTF/RETOS WEB 5/webdecode.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/head-dump.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/COOKIE MONSTER SECRET RECIPE.md",
-    "PicoCTF/EXAMEN PARCIAL 1/WEB/BOOKMARKLET.md",
     "PicoCTF/EXAMEN PARCIAL 1/INFORMACION (RETOS A RESOLVER).md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/Specialer.md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/SansAlpha.md",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/flag_shop.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/dont-you-love-banners.md",
-    "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS/PYTHON WRANGLING.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS",
     "PicoCTF/EXAMEN PARCIAL 1",
