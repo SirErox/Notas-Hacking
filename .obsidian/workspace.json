@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac66992fc4ef2faf",
+        "id": "1aac9731201a9af7",
         "type": "tabs",
         "children": [
           {
-            "id": "1dec5f84f1e9172d",
+            "id": "58a58518832bf910",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/FORENSIC 3/MacroHard WeakEdge.md",
+                "file": "PicoCTF/FORENSIC 4/Operation ONI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MacroHard WeakEdge"
+              "title": "Operation ONI"
             }
           }
         ]
@@ -168,10 +168,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1dec5f84f1e9172d",
+  "active": "58a58518832bf910",
   "lastOpenFiles": [
-    "PicoCTF/FORENSIC 3/tunn3l v1s10n.md",
+    "PicoCTF/FORENSIC 4/Operation Orchid.md",
+    "PicoCTF/FORENSIC 4/Operation ONI.md",
+    "PicoCTF/FORENSIC 4/Sleuthkit Apprentice.md",
+    "PicoCTF/FORENSIC 4/Sleuthkit Intro.md",
+    "PicoCTF/FORENSIC 4/Disk, disk, sleuth!.md",
+    "PicoCTF/FORENSIC 4/MILKSLAP.md",
+    "PicoCTF/FORENSIC 4",
+    "PicoCTF/Sin título.md",
     "PicoCTF/FORENSIC 3/MacroHard WeakEdge.md",
+    "PicoCTF/FORENSIC 3/tunn3l v1s10n.md",
     "PicoCTF/FORENSIC 3/Matryoshka doll.md",
     "PicoCTF/FORENSIC 3/WebNet 1.md",
     "PicoCTF/FORENSIC 3/WebNet 0.md",
@@ -191,13 +199,6 @@
     "PicoCTF/EXAMEN PARCIAL 1/WEB/SSTI 1.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB/N0san1ty.md",
     "PicoCTF/RETOS WEB 4/TRICKSTER.md",
-    "PicoCTF/RETOS WEB 4/MatchTheRegex.md",
-    "PicoCTF/RETOS WEB 5/INCLUDES.md",
-    "PicoCTF/RETOS WEB 5/INSPECT HTML.md",
-    "PicoCTF/RETOS WEB 5/INTROTOBURP.md",
-    "PicoCTF/RETOS WEB 5/local authority.md",
-    "PicoCTF/RETOS WEB 5/POWER COOKIE.md",
-    "PicoCTF/RETOS WEB 5/ROBOTO SANS.md",
     "PicoCTF/EXAMEN PARCIAL 1/WEB",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS",
     "PicoCTF/EXAMEN PARCIAL 1",
@@ -205,7 +206,6 @@
     "PicoCTF/RETOS WEB 4",
     "PicoCTF/RETOS WEB 5",
     "PicoCTF/RETOS WEB 3",
-    "PicoCTF/RETOS WEB 2",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
