@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/TAREA 3(RETOS FORENSIC)/flags are stepic.md",
+                "file": "PicoCTF/CRYPTO 1/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "flags are stepic"
+              "title": "interencdec"
             }
           }
         ]
@@ -170,8 +170,18 @@
   },
   "active": "58a58518832bf910",
   "lastOpenFiles": [
-    "PicoCTF/TAREA 3(RETOS FORENSIC)/Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/CRYPTO 1/WAVES OVER LAMBDA.md",
+    "PicoCTF/CRYPTO 1/interencdec.md",
+    "PicoCTF/CRYPTO 1/TAPPING.md",
+    "PicoCTF/CRYPTO 1/LA CIFRA DE.md",
+    "PicoCTF/CRYPTO 1/CAESAR.md",
+    "PicoCTF/CRYPTO 1/Easy1.md",
+    "PicoCTF/CRYPTO 1/13.md",
+    "PicoCTF/CRYPTO 1/THE NUMBERS.md",
     "PicoCTF/TAREA 3(RETOS FORENSIC)/flags are stepic.md",
+    "PicoCTF/CRYPTO 1",
+    "PicoCTF/Crypto 1.md",
+    "PicoCTF/TAREA 3(RETOS FORENSIC)/Ph4nt0m 1ntrud3r.md",
     "PicoCTF/TAREA 3(RETOS FORENSIC)/RED.md",
     "PicoCTF/TAREA 3(RETOS FORENSIC)/Secrets of the polyglot.md",
     "PicoCTF/TAREA 3(RETOS FORENSIC)/CanYouSee.md",
@@ -189,23 +199,13 @@
     "PicoCTF/TAREA 3(RETOS FORENSIC)/information.md",
     "PicoCTF/TAREA 3(RETOS FORENSIC)",
     "PicoCTF/FORENSIC 4",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/FORENSIC 3/MacroHard WeakEdge.md",
-    "PicoCTF/FORENSIC 3/tunn3l v1s10n.md",
-    "PicoCTF/FORENSIC 3/WebNet 1.md",
-    "PicoCTF/FORENSIC 3/WebNet 0.md",
-    "PicoCTF/FORENSIC 2/shark on wire 2.md",
     "PicoCTF/FORENSIC 3",
-    "PicoCTF/FORENSIC 2/like1000.md",
-    "PicoCTF/FORENSIC 2/C0RRUPT.md",
-    "PicoCTF/FORENSIC 2/whitepages.md",
     "PicoCTF/FORENSIC 2",
     "PicoCTF/EXAMEN PARCIAL 1/WEB",
     "PicoCTF/EXAMEN PARCIAL 1/GENERAL SKILLS",
     "PicoCTF/EXAMEN PARCIAL 1",
     "PicoCTF/FORENSIC",
     "PicoCTF/RETOS WEB 4",
-    "PicoCTF/RETOS WEB 5",
     "PicoCTF/CTF2025 retos resueltos(writeup)/Sin título.canvas",
     "PicoCTF/GENERAL SKILLS 3(WRITE UPS)/Pasted image 20250218184945.png",
     "PicoCTF/GENERAL SKILLS 2(SOLVED)/Pasted image 20250215131443.png",
